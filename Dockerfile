@@ -1,4 +1,4 @@
-FROM python:3.8.0b1-alpine3.10
+FROM python:3.8.3-alpine3.10
 
 SHELL ["/bin/ash", "-eo", "pipefail", "-c"]
 
